@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/shadowsocks/go-shadowsocks2/internal/fakedns"
-	"github.com/shadowsocks/go-shadowsocks2/internal/stat"
-	"github.com/shadowsocks/go-shadowsocks2/socks"
+	"github.com/Stezkoy/go-shadowsocks2/internal/fakedns"
+	"github.com/Stezkoy/go-shadowsocks2/internal/stat"
+	"github.com/Stezkoy/go-shadowsocks2/socks"
 )
 
 type NoDelaySetter interface {

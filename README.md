@@ -22,7 +22,7 @@ Pre-built binaries for common platforms are available at https://github.com/shad
 Install from source
 
 ```sh
-go get -u -v github.com/shadowsocks/go-shadowsocks2
+go get -u -v github.com/Stezkoy/go-shadowsocks2
 ```
 
 

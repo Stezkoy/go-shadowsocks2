@@ -19,13 +19,13 @@ import (
 
 	"github.com/juju/gnuflag"
 
-	"github.com/shadowsocks/go-shadowsocks2/core"
-	"github.com/shadowsocks/go-shadowsocks2/internal/android"
-	"github.com/shadowsocks/go-shadowsocks2/internal/fakedns"
-	"github.com/shadowsocks/go-shadowsocks2/internal/plugin"
-	"github.com/shadowsocks/go-shadowsocks2/internal/shadow"
-	"github.com/shadowsocks/go-shadowsocks2/internal/stat"
-	"github.com/shadowsocks/go-shadowsocks2/internal/stdio"
+	"github.com/Stezkoy/go-shadowsocks2/core"
+	"github.com/Stezkoy/go-shadowsocks2/internal/android"
+	"github.com/Stezkoy/go-shadowsocks2/internal/fakedns"
+	"github.com/Stezkoy/go-shadowsocks2/internal/plugin"
+	"github.com/Stezkoy/go-shadowsocks2/internal/shadow"
+	"github.com/Stezkoy/go-shadowsocks2/internal/stat"
+	"github.com/Stezkoy/go-shadowsocks2/internal/stdio"
 )
 
 const (
